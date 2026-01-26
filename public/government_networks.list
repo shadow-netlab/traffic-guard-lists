@@ -386,10 +386,6 @@
 # FGUP PRP MO RF
 78.107.42.144/28
 
-# AS-Name: CORBINA-RESPUB
-# OOO RESPUBLIKA
-78.107.18.32/28
-
 # AS-Name: CORBINA-ROSATOM
 # FGUP SKC Rosatoma
 # Moscow, ul. Bolshaya Ordynka, d.24/26
@@ -586,73 +582,9 @@
 # Ural Branch of the Russian Academy of Sciences
 195.19.145.0/24
 
-# Networks announced by AS62287
-# AS-Name: ERTH-ABAKAN-MAIN-NET
-# Org: JSC "ER-Telecom Holding"
-# JSC "ER-Telecom Holding"
-# Individual IPoE enterprise static customers
-# Respublika Khakasiya, Russia
-5.3.59.0/24
-
 # AS-Name: ERTH-EKAT-MCS1
 # EMERCOM Ekaterinburg
 85.115.171.104/29
-
-# Networks announced by AS62287
-# AS-Name: ERTH-GORNO-ALTAYSK-MAIN-NET
-# Org: JSC "ER-Telecom Holding"
-# JSC "ER-Telecom Holding"
-# Individual IPoE enterprise static customers
-# Respublika Altay, Russia
-5.3.17.0/24
-
-# Networks announced by AS62287
-# AS-Name: ERTH-KYZYL-MAIN-NET
-# Org: JSC "ER-Telecom Holding"
-# JSC "ER-Telecom Holding"
-# Individual IPoE enterprise static customers
-# Respublika Tyva, Russia
-5.3.57.0/24
-
-# Networks announced by AS62287
-# AS-Name: ERTH-MAGAS-MAIN-NET
-# Org: JSC "ER-Telecom Holding"
-# JSC "ER-Telecom Holding"
-# Individual IPoE enterprise static customers
-# Respublika Ingushetiya, Russia
-5.3.29.0/24
-
-# Networks announced by AS62287
-# AS-Name: ERTH-MAYKOP-MAIN-NET
-# Org: JSC "ER-Telecom Holding"
-# JSC "ER-Telecom Holding"
-# Individual IPoE enterprise static customers
-# Respublika Adygeya, Russia
-5.3.16.0/24
-
-# Networks announced by AS62287,AS41754
-# AS-Name: ERTH-SARANSK-MAIN-NET
-# Org: JSC "ER-Telecom Holding"
-# JSC "ER-Telecom Holding"
-# Individual IPoE enterprise static customers
-# Respublika Mordoviya, Russia
-5.3.43.0/24
-
-# Networks announced by AS62287,AS41403
-# AS-Name: ERTH-ULAN-UDE-MAIN-NET
-# Org: JSC "ER-Telecom Holding"
-# JSC "ER-Telecom Holding"
-# Individual IPoE enterprise static customers
-# Respublika Buryatiya, Russia
-5.3.22.0/24
-
-# Networks announced by AS62287
-# AS-Name: ERTH-YAKUTSK-MAIN-NET
-# Org: JSC "ER-Telecom Holding"
-# JSC "ER-Telecom Holding"
-# Individual IPoE enterprise static customers
-# Respublika Sakha (Yakutiya), Russia
-5.3.50.0/24
 
 # Networks announced by AS196747
 # AS-Name: Electronic-government
@@ -3185,12 +3117,6 @@
 81.176.139.144/28
 81.176.139.160/27
 
-# AS-Name: LG-ELEKTRONIKS-INK-RESPUBLIKA-KOR-LAN
-# LG Elektroniks Ink. (Respublika Kor
-# St.Petersburg
-# JSC PeterStar
-93.153.211.192/30
-
 # AS-Name: LIP-FTAL-1-NET
 # Federal Treasury Administration for Lipetsk region
 195.34.233.56/29
@@ -3728,11 +3654,6 @@
 # AS-Name: MTU-CUST-8452B4C5
 # Gosudarstv. akademija slavjanskoj kulturi (GASK)
 81.195.59.72/30
-
-# AS-Name: MTU-CUST-87D73D02
-# G U Sanatorij "Bes chagda" Respublika Saha (Jakutija)
-# Moscow, Russia
-85.141.19.112/30
 
 # AS-Name: MTU-CUST-896A2DE8
 # FGUP "Filmofond kinostudii "Sojuzmultfilm"
@@ -4940,21 +4861,6 @@
 # 119021, g. Moskva, Zubovskij bul'var, d. 4
 178.248.232.60/32
 
-# AS-Name: QRATOR-10949
-# OOO "STUDIA LIDS"
-# 420500, RESPUBLIKA TATARSTAN, r-n Verhneuslonskij, g. Innopolis, ul. Universitetskaa, d. 7, ofis 326
-178.248.236.100/32
-
-# AS-Name: QRATOR-11088
-# OOO "STUDIA LIDS"
-# 420500, RESPUBLIKA TATARSTAN, r-n Verhneuslonskij, g. Innopolis, ul. Universitetskaa, d. 7, ofis 326
-178.248.237.64/32
-
-# AS-Name: QRATOR-11089
-# OOO "STUDIA LIDS"
-# 420500, RESPUBLIKA TATARSTAN, r-n Verhneuslonskij, g. Innopolis, ul. Universitetskaa, d. 7, ofis 326
-178.248.232.86/32
-
 # AS-Name: QRATOR-11436
 # OOO <<UNIVERSAL GRUPP>>
 # 297576, Krym Resp, Simferopol'skij municipal'nyj rajon, Sel'skoe poselenie Dobrovskoe, Lozovoe s, im. Aleksandra Puskina ul, dom No 4
@@ -4990,16 +4896,6 @@
 # 119021, g. Moskva, Zubovskij bul'var, d. 4
 178.248.233.245/32
 
-# AS-Name: QRATOR-11922
-# OOO "Bank 131"
-# 420012, Rossijskaa Federacia, Respublika Tatarstan, gorod Kazan', ulica Nekrasova, dom 38
-178.248.232.206/32
-
-# AS-Name: QRATOR-12371
-# OOO "Bank 131"
-# 420012, Rossijskaa Federacia, Respublika Tatarstan, gorod Kazan', ulica Nekrasova, dom 38
-178.248.236.229/32
-
 # AS-Name: QRATOR-1292
 # FGUP MIA "Rossia segodna"
 # 119021, g. Moskva, Zubovskij bul'var, d. 4
@@ -5029,11 +4925,6 @@
 # Akcionernoe obsestvo <<Kommersant">>
 # 123112 g.Moskva, vn. ter (vnutrigorodskoe municipal'noe obrazovanie) goroda federal'nogo znacenia municipal'nyj okrug Presnenskij, Presnenskaa nab., dom 10, etaz 35
 178.248.238.19/32
-
-# AS-Name: QRATOR-15323
-# OOO "Bank 131"
-# 420012, Rossijskaa Federacia, Respublika Tatarstan, gorod Kazan', ulica Nekrasova, dom 38
-178.248.238.77/32
 
 # AS-Name: QRATOR-15334
 # FGUP MIA "Rossia segodna"
@@ -5105,16 +4996,6 @@
 # 194044, g. Sankt-Peterburg, vn.ter.g. municipal'nyj okrug Sampsonievskoe, Bol'soj Sampsonievskij pr-t., d.45, litera A, pomes. 213.
 178.248.237.157/32
 
-# AS-Name: QRATOR-16903
-# OOO <<Dostavka05.ru>>
-# 367000, Respublika Dagestan, g. Mahackala, pr-kt Imama Samila, d.89, kv.70
-178.248.236.3/32
-
-# AS-Name: QRATOR-17202
-# OOO "STUDIA LIDS"
-# 420500, RESPUBLIKA TATARSTAN, r-n Verhneuslonskij, g. Innopolis, ul. Universitetskaa, d. 7, ofis 326
-178.248.238.158/32
-
 # AS-Name: QRATOR-17204
 # FGUP MIA "Rossia segodna"
 # 119021, g. Moskva, Zubovskij bul'var, d. 4
@@ -5134,16 +5015,6 @@
 # OOO "ZILFOND"
 # 129090, Moskva g, vn.ter.g. Municipal'nyj okrug Mesanskij, pl Malaa Suharevskaa, d. 1, str. 1, etaz 1, pomes. II, komnata 1
 178.248.238.22/32
-
-# AS-Name: QRATOR-17574
-# Obshchestvo s ogranichennoy otvetstvennostyu AjSiEl Sistemnye Tekhnologii
-# 422616, RESPUBLIKA TATARSTAN, LAISHEVSKIJ RAJON, USADY SELO, DOROZHNAYA ULICA, DOM 42, KORPUS 2 OFIS 708
-185.65.149.132/32
-
-# AS-Name: QRATOR-17742
-# OOO "Bank 131"
-# 420012, Rossijskaa Federacia, Respublika Tatarstan, gorod Kazan', ulica Nekrasova, dom 38
-178.248.236.217/32
 
 # AS-Name: QRATOR-18127
 # OBSESTVO S OGRANICENNOJ OTVETSTVENNOST'?U "SEKRETAR"?"
@@ -5190,20 +5061,10 @@
 # 121096, g. Moskva, vn.ter.g. Municipal'nyj okrug Filevskij park, ul. Vasilisy Kozinoj, d. 1, pomes. 2/1/9
 178.248.234.145/32
 
-# AS-Name: QRATOR-23120
-# Individual'nyj predprinimatel' Romanov Nikolaj Semenovic
-# Udmurtskaa respublika, g. Izevsk, ul. Sovetskaa, d. 20 kv. 25
-178.248.235.54/32
-
 # AS-Name: QRATOR-23313
 # Mikrokreditnaa kompania <<Platiza.ru>> (obsestvo s ogranicennoj otvetstvennost'u)
 # 121096, g. Moskva, vn.ter.g. Municipal'nyj okrug Filevskij park, ul. Vasilisy Kozinoj, d. 1, pomes. 2/1/9
 178.248.235.5/32
-
-# AS-Name: QRATOR-23588
-# OOO "STUDIA LIDS"
-# 420500, RESPUBLIKA TATARSTAN, r-n Verhneuslonskij, g. Innopolis, ul. Universitetskaa, d. 7, ofis 326
-178.248.237.10/32
 
 # AS-Name: QRATOR-23757
 # Mikrokreditnaa kompania <<Platiza.ru>> (obsestvo s ogranicennoj otvetstvennost'u)
@@ -5265,11 +5126,6 @@
 # 119021, g. Moskva, Zubovskij bul'var, d. 4
 178.248.234.33/32
 
-# AS-Name: QRATOR-6782
-# NKO "MONETA.RU"
-# 424000, Rossijskaa Federacia, Respublika Marij El, g. Joskar-Ola, ul. Gogola, d. 2, stroenie &amp;laquo;A&amp;raquo;
-178.248.236.8/32
-
 # AS-Name: QRATOR-749
 # FGUP MIA "Rossia segodna"
 # 119021, g. Moskva, Zubovskij bul'var, d. 4
@@ -5304,12 +5160,6 @@
 # AS-Name: REDSTAR-NET
 # Network of FGUP IT Red Star
 212.48.138.240/28
-
-# AS-Name: RESPUBLIKA-LAN
-# RESPUBLIKA network
-# Obit Telecommunications
-# St.Petersburg
-79.134.195.116/30
 
 # Networks announced by AS51039
 # AS-Name: RFNC-VNIITF
@@ -7579,12 +7429,6 @@
 # State Government Institution "Yamal Resources"
 185.42.94.0/23
 
-# AS-Name: Respublika
-# Ticket 09-26324-1
-# Ticket 09-26324-5, CF
-95.167.14.220/30
-95.167.167.160/28
-
 # AS-Name: RosPotrebNadzor
 # Government
 217.149.182.120/30
@@ -7623,15 +7467,6 @@
 # Org: Administration department of the Government of Saratov region
 # Administration department of the Government of Saratov region
 194.190.103.0/24
-
-# AS-Name: SCARTEL-94-25-182-0-24
-# YOTA - Udmurtskaya respublika
-94.25.182.0/24
-
-# Networks announced by AS25159
-# AS-Name: SCARTEL-94-25-184-0-24
-# YOTA - Komi respublika
-94.25.184.0/24
 
 # AS-Name: SCC-ROSATOM
 # SCC Rosatom DMZ-zone(Web, Mail, DNS servers)
@@ -8076,6 +7911,10 @@
 # object-DOBROLYUBOVA8ASTR1, client-FGUP "Molmash" Rosselkhozakademii
 87.249.28.232/29
 
+# AS-Name: GOV-RK
+# Government of Respublic Karelia
+94.143.243.80/28
+
 # AS-Name: TEL-NET-15424
 # object-BALTIYSKAYA14, client-FGUP "NII "EKRAN"
 87.249.30.176/30
@@ -8095,10 +7934,6 @@
 # AS-Name: TEL-NET-6116
 # object-POHODNY4STR1, client-FGUP "Gosudarstvennij tsentr ekologicheskikh programm"
 87.249.5.48/30
-
-# AS-Name: TEL-NET-6202
-# object-CHASOVAYA22/2, client-Predstavitelstvo kompanii "Ferromin Limited" Respublika Kipr
-87.249.5.164/30
 
 # AS-Name: TEL-NET-9372
 # object-LENINGRADSKOE7, client-FGUP GPI i NII GA Aeroproekt
