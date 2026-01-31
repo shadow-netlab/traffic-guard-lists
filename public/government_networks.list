@@ -3121,6 +3121,13 @@
 # Association "All-Russian Association for the Development of Local Self-Government"
 62.118.178.216/29
 
+# AS-Name: MAF-ROSTOV-NET
+# Ministry of agriculture and foodstuff of the Rostov region
+# Krasnoarmyskay 33
+# Rostov-on-Don, Rostovskaia oblast, 344002
+87.117.17.224/29
+87.117.45.40/29
+87.117.45.32/29
 
 # Networks announced by AS208605
 # AS-Name: MAGADAN-IT-NET
@@ -6758,6 +6765,7 @@
 # Org: Autonomous Nonprofit Organisation "Russian Scientific-Research Institute for Public Networks"
 194.190.149.0/24
 194.190.150.0/23
+194.190.152.0/23
 194.190.154.0/24
 194.190.143.0/23
 194.190.139.0/23
@@ -7097,6 +7105,11 @@
 # Org: Ministry of Finance of the Sakhalin region
 2001:67c:ac4::/48
 
+# AS-Name: RU-SOVINTEL-BRN-NaNoSeCuRiTy-NET
+# 241035 Russia Bryansk, ZC-8064588
+# 50-th Army, 6, KL-3639456
+# NANO Security, http://www.nanoav.ru
+62.141.65.88/29
 
 # AS-Name: RU-SOVINTEL-HBR-CUKS-DVRC-MCHS-RUS-NET
 # 680003 Russia Habarovsk, ZC-8100003
