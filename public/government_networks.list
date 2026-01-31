@@ -635,7 +635,6 @@
 194.190.46.0/24
 62.76.193.0/24
 
-
 # AS-Name: FFGUPKO-NET
 # FFGUP "Oxrana" MVD RF po Kemerovo area
 # Kemerovo, Russia
@@ -3063,10 +3062,6 @@
 # Russia
 195.112.235.64/29
 
-# AS-Name: KRD-CUSTOMS-NETWORK
-# Krasnodar Customs
-46.18.202.160/29
-
 # Networks announced by AS199583
 # AS-Name: KRDADM
 # Org: Municipal Government Institution of Krasnodar city Municipal formation "Electronic Krasnodar"
@@ -3108,9 +3103,6 @@
 # Government of the Leningrad Region
 213.182.178.0/24
 
-# AS-Name: LENTRANS-NET
-# ZAO "LenTrans", The customs terminal
-83.171.76.48/28
 
 # AS-Name: LESNIKI-RTCOMM
 # GKU RB "Lesnichestvo"
@@ -3410,13 +3402,6 @@
 # Org: FKU "GTsSIZI Ministry of Internal Affairs of Russia"
 # Network of Ministry of Interior Affairs RF
 194.8.70.0/23
-
-# Networks announced by AS34698
-# AS-Name: MOLCOM
-# JV Molcom Ltd
-# Customs Warehouse
-# Moscow
-194.67.41.0/24
 
 # Networks announced by AS3267
 # AS-Name: MON
@@ -6432,11 +6417,6 @@
 # Org: FGUP CTSPI MGA Russia
 80.73.16.0/20
 
-# AS-Name: RU-CUSTOM-BEL
-# Belgorod customs
-82.151.111.96/28
-82.151.111.152/29
-
 # AS-Name: RU-DEPARTAMENT-RMO
 # Municipalities' Development Department,
 # Executive branch of government
@@ -7445,10 +7425,6 @@
 89.21.129.16/28
 85.90.120.72/29
 
-# AS-Name: SAKHALIN-DSL-TMV-C207-NET
-# Subnet for customer FSS ID207 in Tymovsk
-195.72.247.72/30
-
 # Networks announced by AS9157
 # AS-Name: SAO-RAS
 # Org: Federal State Budget Institution The Special Astrophysical Observatory of Russia's Academy of Sciences
@@ -7800,24 +7776,6 @@
 # North-West Branch of OJSC MegaFon Network, Fixed broadband
 37.29.56.36/30
 
-# AS-Name: STU
-# Sibirian customs department
-# Russia, Novosibirsk
-# dach17
-# tolm45
-94.251.83.176/29
-94.251.83.184/29
-
-# AS-Name: STU1-NET
-# Siberian Customs Directorate
-# Novosibirsk, Russia
-81.1.235.0/28
-
-# AS-Name: STU3-NET
-# Siberian Customs Directorate
-# Novosibirsk, Russia
-82.200.104.224/28
-
 # Networks announced by AS2643
 # AS-Name: SU-IHEP
 # Org: Federal State Budgetary Institution "Institute of High Energy Physics named after A.A.Logunov of National Research Center "Kurchatov Institute"
@@ -8059,12 +8017,6 @@
 # Municipal Unitary Company "Teleradiokompanija TVS" City network
 # 50 Ostrovskogo Street, Trekhgorny, Chelyabinsk area, Russia
 89.237.44.0/24
-
-# AS-Name: Tcustoms-network
-# Tomsk customs
-# Belinskogo street,57
-# 630034, Russia, Tomsk
-82.200.5.72/29
 
 # AS-Name: Television-studio-MDIA-Net
 # Television studio of the Municipal Department of Internal Affairs across Moscow
@@ -8921,54 +8873,6 @@
 # Sobornyi street, 2a
 # Rostov-on-Don, Russian Federation
 87.117.26.160/28
-
-# AS-Name: tel-service-for-customs-ip-unnumbered
-# baltiyskaya 14, Moscow, Russia
-46.38.44.0/25
-
-# AS-Name: tel-service-for-customs-nat
-# dorognaya 60, Moscow, Russia
-# 8 marta 10, Moscow, Russia
-# volokolamskoe 97, Moscow, Russia
-# unatov 18, Moscow, Russia
-87.249.31.32/27
-46.38.34.192/27
-46.38.34.224/30
-46.38.40.88/29
-46.38.33.184/29
-
-# AS-Name: tel-service-for-customs-nat-static
-# volokolamskoe 97, Moscow, Russia
-46.38.41.0/26
-
-# AS-Name: tel-service-for-customs-out-of-office
-# buhvostovo 12, Moscow, Russia
-87.249.31.20/30
-
-# Networks announced by AS31430
-# AS-Name: tel-service-for-customs-pppoe
-# kochnovsky 4k1, Moscow, Russia
-# kochnovsky 4k3, Moscow, Russia
-# kochnovsky 4k2, Moscow, Russia
-# kochnovsky 4k4, Moscow, Russia
-# kochnovsky 4k5, Moscow, Russia
-46.38.32.0/24
-46.38.37.0/24
-46.38.36.0/24
-46.38.38.0/24
-46.38.39.0/24
-
-# AS-Name: tel-service-for-customs-ppppe
-# isakovskogo 9, Moscow, Russia
-# severnoe-chertanovo 3, Moscow, Russia
-# severnoe-chertanovo 1a, Moscow, Russia
-# severnoe-chertanovo 2, Moscow, Russia
-# severnoe-chertanovo 4, Moscow, Russia
-87.249.11.72/29
-78.108.206.0/24
-78.108.204.0/24
-78.108.205.0/24
-78.108.207.0/24
 
 # AS-Name: tsniimash-net
 # FGUP "TSNII Mashinostroeniya"
